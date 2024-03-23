@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Light000007
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on no-one
-
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: <--#$--/>
+- 👋 Hi, I’m Shivam
 
 <!---
 Light000007/Light000007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
